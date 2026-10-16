@@ -2,3 +2,5 @@ report_template.docx
 Slide/
 server.key
 flags.txt
+server.crt
+ca.crt
