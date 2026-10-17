@@ -1,6 +1,9 @@
 report_template.docx
-Slide/
+Slide
 server.key
 flags.txt
 server.crt
 ca.crt
+__pycache__
+netsec.auth
+tor
